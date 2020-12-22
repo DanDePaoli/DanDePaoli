@@ -1,4 +1,4 @@
-### Thanks for stoping by 👋
+### Thanks for stopping by 👋
 
 <img src="https://ddpgithubprojects.s3-us-west-2.amazonaws.com/GitHero.jpg" alt="Daniel DePoali Readme Banner">
 
