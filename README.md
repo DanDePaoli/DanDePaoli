@@ -2,7 +2,9 @@
 
 <img src="https://ddpgithubprojects.s3-us-west-2.amazonaws.com/GitHero.jpg" alt="Daniel DePoali Readme Banner">
 
-I’m a passionate engineer and devout lifelong learner.  I believe in challenge as the path to personal growth and business as a platform for change.  After a successful 8 year stint working in marketing for tech startups I transitioned to software engineering.  I deeply enjoy the analytical and creative challenge of building clean, scalable systems.  Right now I work mostly with Javascript (Node, React, etc) and Python.
+I’m a passionate engineer and devout lifelong learner.  I believe in challenge as the path to personal growth and business as a platform for change.  After 8 years of working on the business side of technology startups I decided to transition to software engineering.  I deeply enjoy the analytical and creative challenge of building clean, scalable systems.  Right now I work mostly with Javascript (Node, React, etc) and Python.
+
+You can check out a couple of my recent projects in deployment on my portfolio site: dpao.dev
 
 I’m currently working as a contract full-stack software engineer.  I am open to new opportunities and would love to connect with you: https://www.linkedin.com/in/danieldepaoli/
 
