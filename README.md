@@ -6,7 +6,7 @@ I’m a passionate engineer and devout lifelong learner.  I believe in challenge
 
 You can check out a couple of my recent projects in deployment on my portfolio site: dpao.dev
 
-I’m currently working as a contract full-stack software engineer.  I am open to new opportunities and would love to connect with you: https://www.linkedin.com/in/danieldepaoli/
+I currently work for the IBM Technology Garage as a cloud engineer.  I love to connect with you: https://www.linkedin.com/in/danieldepaoli/
 
 <!--
 **DanDePaoli/DanDePaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
