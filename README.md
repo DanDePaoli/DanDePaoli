@@ -2,11 +2,9 @@
 
 <img src="https://ddpgithubprojects.s3-us-west-2.amazonaws.com/GitHero.jpg" alt="Daniel DePoali Readme Banner">
 
-I’m a passionate engineer and devout lifelong learner.  I believe in challenge as the path to personal growth and business as a platform for change.  I deeply enjoy the analytical and creative challenge of building clean, scalable systems.  Right now I work mostly with Javascript (Node, React, etc) and Python.
+I’m a passionate engineer and devout lifelong learner.  I believe in challenge as the path to personal growth and business as a platform for change.  I deeply enjoy the analytical and creative challenge of building clean, scalable systems.  Most of my projects at this point are on my employer's private repos.  My current focus is AI and hybrid cloud.  Applications of LLMs such as RAG for global manufacturers and life sciences companies.
 
-You can check out a couple of my recent projects in deployment on my portfolio site: dpao.dev
-
-I currently work for the IBM Technology Garage as a cloud engineer.  I love to connect with you: https://www.linkedin.com/in/danieldepaoli/
+Connect with me at: https://www.linkedin.com/in/danieldepaoli/
 
 <!--
 **DanDePaoli/DanDePaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
